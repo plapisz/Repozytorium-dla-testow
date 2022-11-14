@@ -3,4 +3,5 @@ testowe repozytorium nowe
 test
 testowy
 testy git extension
+przykladowa edycja
 przykład 
